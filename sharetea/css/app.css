@@ -1,0 +1,61 @@
+/* This is my stylesheet for the homepage */
+
+
+/* header styles */
+
+/* main body styles */
+
+/* footer styles */
+
+
+.wrapper{
+  font-family: 'Abhaya Libre', serif;
+
+}
+
+.red{
+  background-color: #C7504A;
+}
+
+.brown{
+  background-color: #ECE7C9;
+
+}
+
+img{  margin: auto;
+  display: block;
+}
+
+a{
+  margin-left: 50px;
+  color: black;
+}
+
+#counter{
+  margin: auto;
+  display: block;
+
+}
+
+.rowheader {
+  text-align: center;
+  font-size: 30px;
+
+}
+
+
+p {
+  font-size: 18px;
+}
+
+footer {color: black;  text-align: center;   }
+
+
+
+#preview{
+  margin-top: 15px;
+}
+
+h2{
+  text-align: center;
+}
